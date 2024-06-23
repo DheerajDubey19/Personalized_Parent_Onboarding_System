@@ -95,15 +95,3 @@ The **Personalized Parent Onboarding Backend System** is a Django-based API serv
 ### Personalized Home Feed
 
 - **GET /api/v1/blog/personalized-feed/{parent_id}/**: Retrieve personalized blog and vlog feed based on parent's preferences.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request. Follow the project's coding standards and conventions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-This README template provides a clear and concise overview of your project, including setup instructions, API endpoints, technologies used, and guidelines for contributing. Feel free to customize it further to include additional details specific to your project's requirements and context.
